@@ -41,8 +41,7 @@ The increased transparency it fosters will deter and perhaps even terminate the 
 
 Getting Started
 Installing
-Clone this project's main folder using the following command
-git clone https://github.com/Adesdesk/Track-Pharma.git
+
 Executing program
 Open the frontend folder in yoour choice IDE e.g. VSCode
 Create a new file in the root folder and name it '.env'
