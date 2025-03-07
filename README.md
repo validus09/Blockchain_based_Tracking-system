@@ -1,10 +1,13 @@
 Tracking System by Samarth Singh Chouhan
 Track-Pharma
+![214290533-35e7965e-1e43-4a18-8f7e-b2119b43266e](https://github.com/user-attachments/assets/84991e94-fce8-4869-a537-d7d1d11dfd12)
 
 Description
 A supply chain management solution for pharmaceutical products by TEAM201
 Track-Pharma runs online at https://track-pharma.vercel.app/
 Track-Pharma is a blockchain project by a collaborative effort of members of Team201. It is a decentralized application with which all parties involved in the pharmaceutical supply chain can easily create, store and retrieve certificates of each product history. This is provides an easy way to verify authenticity of pharmaceutical supplies and ensure compliance with standards.
+![213938545-e689bbc6-6573-4a2c-aab9-79a8ec7fc92e](https://github.com/user-attachments/assets/3a356d54-bcad-4491-bf2f-25592371f196)
+![214293128-93b15f3c-1d51-4886-8adf-20c4f0774e70](https://github.com/user-attachments/assets/b95a7fae-1e35-463b-909b-be2e66358f59)
 
 The Problem
 Pharmaceutical products’ monitoring authorities encounter difficulties in identifying unauthorized importers and manufacturers of substandard pharmaceutical products. Some of the existing means of keeping track of, and verifying the authenticity of pharmaceutical products, especially in developing countries are limited by the fact that methods of records management can be compromised. More so, with the possibility of regulatory officials being accomplices in the breach of regulatory measures, it has been a huge fight against drug abuse and counterfeiting in many countries.
