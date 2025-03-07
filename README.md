@@ -1,4 +1,4 @@
-# Project Title
+# Tracking System by Samarth Singh Chouhan
 
 Track-Pharma
 
@@ -83,22 +83,6 @@ yarn start
 ```
 * When the server is started, browse http://localhost:3000/ in your choice browser to see the app launched
 * Follow the guides and prompts available in the rendered frontend app to carry out transactions as you may desire for your testing
-
-## Help
-
-##### Note that you must have the following on your computer for this program to run as expected
-* Node - Javascript runtime environment
-* Metamask or other compatible ethereum wallets installed as your browser extension
-* Some test Goerli Eth in your ethereum wallet
-* A .env file created similarly to the .env.example file now filled with your own approriate environment variables
-
-## Authors
-
-Contributor(s) names and contact info
-
-Names: Adeola David Adelakun, Wilfred Adzer, Mbazu Daniel, Umaha Tokula, Nnamdi Nwabueze
-
-Email: team201@gmail.com
 
 
 ## License
